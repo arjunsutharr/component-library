@@ -4,6 +4,7 @@
     --primary-color:#0EA5E9;
     --off-white-color:#f3f4f6;
     --grey-color:#6b7280;
+    --black-color: #000000;
 }
 
 body{
@@ -159,4 +160,33 @@ hr{
 
 .footer ul {
     padding-inline-start: 0px;
+}
+
+
+/* ---blog-section--- */
+.blog-links {
+    text-decoration: none;
+
+}
+
+.blog-heading {
+    color: var(--primary-color);
+}
+
+.blog-date {
+    color: var(--black-color);
+}
+
+.blog-shortDescription {
+    color: var(--black-color);
+}
+
+
+/* ---Blogs--- */
+#blog-container .blog-images {
+    max-width: 100%;
+}
+
+.blog-list {
+    padding-inline-start: 18px;
 }
