@@ -1,2 +1,2 @@
-# component library
- HTML and CSS to make component library
+#component library
+ Created component library with HTML/CSS.
