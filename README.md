@@ -1,2 +1,1 @@
-#component library
- Created component library with HTML/CSS.
+Created component library with HTML/CSS.
